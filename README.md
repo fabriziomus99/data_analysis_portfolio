@@ -2,8 +2,7 @@
 Progetti personali per imparare e applicare tecniche di analisi dati.
 
 
-<h2 align="center">Ciao 👋 </h2>, 
-<h2> sono Fabrizio Mustich</h2>
+<h2 align="center">Ciao 👋, sono Fabrizio Mustich. </h2> 
 <h3> Sono una persona interessata al mondo dell'Analisi dei Dati. Al momento non lavoro in quest'ambito ma ho completato un corso di formazione con competenze base che continuo ad approfondire.</h3>
 
 - 🧬 Attualmente sto lavorando a un progetto personale di analisi dati basato su studi clinici presenti su clinicaltrials.gov, filtrati per la parola chiave “orthopedics” nel periodo 2019–2026. **Orthopedics Clinical Trials Data Exploration**
